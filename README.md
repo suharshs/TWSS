@@ -7,6 +7,6 @@ This is based on the idea from [Edwin Chen's blog](http://blog.echen.me/) that I
 myself to learn how naive bayes works.
 
 Goals:
-1. Learn the logic behind naive bayes and why it works.
-2. Create a meaningful application of naive bayes.
-3. Continue improving my pythonic coding.
+* Learn the logic behind naive bayes and why it works.
+* Create a meaningful application of naive bayes.
+* Continue improving my pythonic coding.
