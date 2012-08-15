@@ -1,4 +1,4 @@
-# That's what she said classifier. (H2)
+# That's what she said classifier.
 Date : July 1, 2012
 
 This project is a small "That's what she said" generator.
